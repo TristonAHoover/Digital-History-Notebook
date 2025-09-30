@@ -1,0 +1,1 @@
+Ada Lovelace was an English mathematitian and writer known for her work on the mechanical general-purpose computer, or the Analytical Engine. She is widely recognized as the first computer programmer for developing a method to calculate Bernoulli numbers using a machine.

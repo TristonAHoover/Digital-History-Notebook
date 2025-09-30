@@ -230,3 +230,9 @@ A screenshot of your repository's commit history on GitHub. To find this, naviga
 
 Be sure to answer the questions above as well.
 
+
+
+\[Ada Lovelace]\["C:\\Users\\RebelScum\\Documents\\git\\Digital-History-Notebook\\ada-lovelace.md"]
+
+\[Alan Turing]\["C:\\Users\\RebelScum\\Documents\\git\\Digital-History-Notebook\\alan-turing.md"]
+

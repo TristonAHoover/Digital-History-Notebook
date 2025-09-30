@@ -1,0 +1,1 @@
+Alan Turing was a British mathematician, logician, cryptanalyst, and computer scientist. He was an important figure in theoretical computer science and artificial intelligence. He best known work was breaking the German Enigma code during World War II, significantly aiding the Allied war effort.
