@@ -232,7 +232,7 @@ Be sure to answer the questions above as well.
 
 
 
-\[Ada Lovelace]\["C:\\Users\\RebelScum\\Documents\\git\\Digital-History-Notebook\\ada-lovelace.md"]
+\[Ada Lovelace](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/ada-lovelace.md)
 
-\[Alan Turing]\["C:\\Users\\RebelScum\\Documents\\git\\Digital-History-Notebook\\alan-turing.md"]
+\[Alan Turing](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/alan-turing.md)
 
