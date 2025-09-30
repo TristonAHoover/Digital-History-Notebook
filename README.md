@@ -236,3 +236,14 @@ Be sure to answer the questions above as well.
 
 \[Alan Turing](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/alan-turing.md)
 
+
+
+### Timeline: The Rise of the Internet
+
+- ARPANET (1969) - The first network; marked the beginning of the internet
+- Email (1971) - Invented by Ray Tomlinson, using the @ symbol to separate user and host names
+- TCP/IP Protocol (1974) - Enabled multiple networks to communicate
+- World Wide Web (WWW) (1989-1991) - Created a system for linking hypertext documents accessible globally
+- Amazon.com (1995) - Launched as an online bookseller, but later become what it is now: A major global retailer
+- eBay (1995) - Founded to enable peer-to-peer online trading
+- Google Search Engine (1998) - Revolutionized how users find information online
