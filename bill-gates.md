@@ -1,0 +1,1 @@
+Bill Gates co-founded Microsoft in 1975 will Paul Allen. He had the vision of putting a computer on every desk and in every home. He released Windows 1.0 in 1985 and achieved massive success with Windows 3.0 in 1990. It introduced a user-friendly graphical interface that made personal computers accessible to much more people.
