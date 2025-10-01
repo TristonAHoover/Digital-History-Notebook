@@ -232,9 +232,13 @@ Be sure to answer the questions above as well.
 
 
 
-\[Ada Lovelace](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/ada-lovelace.md)
+[Ada Lovelace](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/ada-lovelace.md)
 
-\[Alan Turing](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/alan-turing.md)
+[Alan Turing](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/alan-turing.md)
+
+[Bill Gates](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/bill-gates.md)
+
+[Steve Jobs](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/steve-jobs.md)
 
 
 
