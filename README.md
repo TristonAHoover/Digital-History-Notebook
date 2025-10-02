@@ -253,3 +253,9 @@ Be sure to answer the questions above as well.
 - Amazon.com (1995) - Launched as an online bookseller, but later become what it is now: A major global retailer
 - eBay (1995) - Founded to enable peer-to-peer online trading
 - Google Search Engine (1998) - Revolutionized how users find information online
+
+
+
+### Final Thoughts
+
+I thought this assignment was really fun and good practice for using GitHub on console. I think it should have been worth more than 10 points (probably like 20 or more), since others may have a more difficult time than I did on this project.
