@@ -240,6 +240,8 @@ Be sure to answer the questions above as well.
 
 [Steve Jobs](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/steve-jobs.md)
 
+[Tim Berners-Lee](https://github.com/TristonAHoover/Digital-History-Notebook/blob/main/tim-berners-lee.md)
+
 
 
 ### Timeline: The Rise of the Internet
